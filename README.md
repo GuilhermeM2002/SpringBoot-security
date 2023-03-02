@@ -48,4 +48,3 @@ Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos curso
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
 ---
-# SpringBoot-security
